@@ -20,3 +20,4 @@
 * step 2090 go for some more shadow bindings
 * step 2100 flush out r using "noisy" hole
 * step 2110 try using f as fill for r
+* step 2120 flush out s using "noisy" hole
