@@ -15,3 +15,4 @@
 * step 2040 seek result direction from "noisy" hole
 * step 2050 introduce other goodies at our disposal
 * step 2060 explore use of f to obtain result
+* step 2070 backtrack and prepare for next attempt;
