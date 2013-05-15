@@ -41,3 +41,4 @@
 * step 3100 experiment with plugging f into final solution
 * step 3110 flush out parameter to f using "noisy" hole
 * step 3120 plug k into f hole
+* step 3130 type n e is now n b
