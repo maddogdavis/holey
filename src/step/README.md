@@ -37,3 +37,4 @@
 * step 3060 introduce other goodies at our disposal
 * step 3070 explore the use of cobind
 * step 3080 flush out type for s
+* step 3090 try x as function for s
