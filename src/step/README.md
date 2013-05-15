@@ -6,3 +6,4 @@ step 1040 shadow bindings for compose parameters
 step 1050 use "noisy" hole to direct to result
 step 1060 take step forward using f
 step 1070 take another step using g
+step 1080 final step yields result
