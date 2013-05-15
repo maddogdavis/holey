@@ -43,3 +43,4 @@
 * step 3120 plug k into f hole
 * step 3130 type n e is now n b
 * step 3140 flush out type for r
+* step 3150 complete type for r
