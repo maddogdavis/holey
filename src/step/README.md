@@ -28,3 +28,4 @@
 * step 2170 back substitute once more
 * step 2180 final tidy
 * step 2190 complete
+* step 3000 prepare for cokleisli compose
