@@ -7,8 +7,7 @@ Driven Development (HDD) using
 composition.
 
 Comprises [individual steps](src/step/) and the 
-[final result](src/core/Hdd.hs).  Steps can be
-in the commit history.
+[final result](src/core/Hdd.hs).
 
 Have fun!
 
