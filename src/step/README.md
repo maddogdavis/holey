@@ -13,3 +13,4 @@
 * step 2020 parameters for kleisli compose with "noisy" hole
 * step 2030 introduce shadow bindings
 * step 2030 introduce shadow bindings
+* step 2040 seek result direction from "noisy" hole
