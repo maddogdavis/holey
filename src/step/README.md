@@ -10,3 +10,4 @@
 * step 1090 remove working and tidy
 step 2000 define semi monad
 step 2010 define kleisi compose type signature
+step 2020 parameters for kleisli compose with "noisy" hole
