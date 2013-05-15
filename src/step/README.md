@@ -19,3 +19,4 @@
 * step 2080 bind looks promising
 * step 2090 go for some more shadow bindings
 * step 2100 flush out r using "noisy" hole
+* step 2110 try using f as fill for r
