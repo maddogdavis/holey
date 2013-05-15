@@ -33,3 +33,4 @@
 * step 3020 define semi comonad
 * step 3030 define cokleisli compose type signature
 * step 3040 parameters for cokleisli compose with "noisy" hole
+* step 3050 introduce shadow bindings
