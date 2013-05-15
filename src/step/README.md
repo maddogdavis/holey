@@ -17,3 +17,4 @@
 * step 2060 explore use of f to obtain result
 * step 2070 backtrack and prepare for next attempt
 * step 2080 bind looks promising
+* step 2090 go for some more shadow bindings
