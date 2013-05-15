@@ -35,3 +35,4 @@
 * step 3040 parameters for cokleisli compose with "noisy" hole
 * step 3050 introduce shadow bindings
 * step 3060 introduce other goodies at our disposal
+* step 3070 explore the use of cobind
