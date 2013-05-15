@@ -39,3 +39,4 @@
 * step 3080 flush out type for s
 * step 3090 try x as function for s
 * step 3100 experiment with plugging f into final solution
+* step 3110 flush out parameter to f using "noisy" hole
