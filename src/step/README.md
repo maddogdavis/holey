@@ -38,3 +38,4 @@
 * step 3070 explore the use of cobind
 * step 3080 flush out type for s
 * step 3090 try x as function for s
+* step 3100 experiment with plugging f into final solution
