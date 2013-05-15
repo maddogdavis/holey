@@ -12,3 +12,4 @@
 * step 2010 define kleisi compose type signature
 * step 2020 parameters for kleisli compose with "noisy" hole
 * step 2030 introduce shadow bindings
+* step 2030 introduce shadow bindings
