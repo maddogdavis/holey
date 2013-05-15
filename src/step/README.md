@@ -26,3 +26,4 @@
 * step 2150 final step yields result
 * step 2160 back substitute
 * step 2170 back substitute once more
+* step 2180 final tidy
