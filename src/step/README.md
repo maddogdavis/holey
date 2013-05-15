@@ -14,3 +14,4 @@
 * step 2030 introduce shadow bindings
 * step 2030 introduce shadow bindings
 * step 2040 seek result direction from "noisy" hole
+* step 2050 introduce other goodies at our disposal
