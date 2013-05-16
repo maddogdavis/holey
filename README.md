@@ -9,6 +9,8 @@ composition.
 Comprises [individual steps](src/step/) and the 
 [final result](src/core/Hdd.hs).
 
+Worth having a look at [Matt's Hole Movie](http://matthew.bracknell.net)
+
 Have fun!
 
 Maddog   
