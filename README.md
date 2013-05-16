@@ -7,9 +7,8 @@ Driven Development (HDD) using
 composition.
 
 Comprises [individual steps](src/step/) and the 
-[final result](src/core/Hdd.hs).
-
-Worth having a look at [Matt's Hole Movie](http://matthew.bracknell.net)
+[final result](src/core/Hdd.hs).  Consider consuming while watching
+[Matt's hole movie](http://matthew.bracknell.net).
 
 Have fun!
 
