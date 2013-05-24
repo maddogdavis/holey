@@ -1,6 +1,7 @@
 ## Hole Driven Development
 
-Source file steps which accompany a Haskell tutorial on
+[Source file steps](http://www.haskell.org/haskellwiki/GHC/TypeHoles)
+which accompany a Haskell tutorial on
 [Hole](http://www.haskell.org/haskellwiki/GHC/TypeHoles)
 Driven Development (HDD) using 
 [Kleisli](http://en.wikipedia.org/wiki/Kleisli_category)
