@@ -1,6 +1,6 @@
 ## Hole Driven Development
 
-[Source file steps](http://www.haskell.org/haskellwiki/GHC/TypeHoles)
+[Source file steps](src/step/)
 which accompany a Haskell tutorial on
 [Hole](http://www.haskell.org/haskellwiki/GHC/TypeHoles)
 Driven Development (HDD) using 
